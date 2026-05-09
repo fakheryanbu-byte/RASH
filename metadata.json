@@ -1,0 +1,6 @@
+{
+  "name": "متابع رش الغرف",
+  "description": "تطبيق بسيط لمتابعة حالة رش غرف الفندق، حيث يتحول لون الغرفة للأخضر عند إتمام الرش.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
